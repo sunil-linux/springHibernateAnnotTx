@@ -1,0 +1,6 @@
+com\spatil\App.class
+com\spatil\person\model\Person.class
+com\spatil\person\service\impl\PersonServiceImpl.class
+com\spatil\person\service\PersonService.class
+com\spatil\person\dao\PersonDao.class
+com\spatil\person\dao\impl\PersonDaoImpl.class
